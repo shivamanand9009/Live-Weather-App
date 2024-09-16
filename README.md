@@ -20,13 +20,13 @@ The **Live Weather App** allows users to search for the current weather conditio
 - **JavaScript (ES6)**: Logic for fetching and displaying weather data
 - **OpenWeatherMap API**: Provides real-time weather data
 
-##Location Access 
+## Location Access 
 ![image](https://github.com/user-attachments/assets/1e888ec1-936e-4ef5-aff9-10345a418671)
 
-#Current City Weather
+## Current City Weather
 ![image](https://github.com/user-attachments/assets/2f8906e4-4072-4575-9a86-4eaab6a2a8fd)
 
-#Search City Weather
+## Search City Weather
 ![image](https://github.com/user-attachments/assets/2d971365-cac2-4815-a3a1-96e590b2d396)
 
 
