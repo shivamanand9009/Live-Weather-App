@@ -1,22 +1,24 @@
-### Live-Weather-App
 
-##Project Description
+# Live Weather App
 
-The Live Weather App allows users to search for the current weather conditions in any city worldwide. It fetches real-time weather data using the OpenWeatherMap API and displays temperature, humidity, weather conditions, and more.
+## Project Description
 
-##Features
+The **Live Weather App** allows users to search for the current weather conditions in any city worldwide. It fetches real-time weather data using the OpenWeatherMap API and displays temperature, humidity, weather conditions, and more.
 
-Real-time weather data for any city
-Displays temperature, humidity, wind speed, and weather condition
-Easy-to-use interface with responsive design
-Background changes based on the weather conditions (sunny, cloudy, rainy, etc.)
-Error handling for invalid city names or failed API requests
+## Features
 
-##Technologies Used
-HTML5: Structure and layout of the application
-CSS3: Styling the user interface
-JavaScript (ES6): Logic for fetching and displaying weather data
-OpenWeatherMap API: Provides real-time weather data
+- Real-time weather data for any city
+- Displays temperature, humidity, wind speed, and weather conditions
+- Easy-to-use interface with responsive design
+- Background changes based on the weather conditions (sunny, cloudy, rainy, etc.)
+- Error handling for invalid city names or failed API requests
+
+## Technologies Used
+
+- **HTML5**: Structure and layout of the application
+- **CSS3**: Styling the user interface
+- **JavaScript (ES6)**: Logic for fetching and displaying weather data
+- **OpenWeatherMap API**: Provides real-time weather data
 
 ##Location Access 
 ![image](https://github.com/user-attachments/assets/1e888ec1-936e-4ef5-aff9-10345a418671)
